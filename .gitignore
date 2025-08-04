@@ -1,7 +1,5 @@
 .env
 
-rinha-test/
-payment-processor/
-server
-worker
+/server
+/worker
 partial-resuts.json
